@@ -1,6 +1,5 @@
 # Yin-Tai_YT-3288_UHF_Radio
 
-
 The Yin-Tai YT-3288 UHF Radio is quite large and seems to be decent quality as far as cheap chinese radios are concerned.
 
 The radio is similar is size to the motorola CP040 or CP200.
@@ -12,8 +11,6 @@ Internally the radio looks decently made it seems to be focused on the H09017 JC
 It was a real pain to find information on this transistor again somehow I found the datasheet but never downloaded the file.
 
 It still eludes me, somehow google search and bing search functionality has become a real nuisance. (nothing new though)
-
-
 
 
 
